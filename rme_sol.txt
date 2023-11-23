@@ -1,0 +1,46 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WEB-SERVEUR: 60TO61~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+nZ^&@q5&sjJHev0                                                     o HTML - Code source
+e6f8a530811d5a479812d7b82fc1a5c5                                    o HTTP - Open redirect
+rr$Li9%L34qd1AAe27                                                  o HTTP - User-agent
+admin                                                               o Mot de passe faible
+S3rv1ceP1n9Sup3rS3cure                                              o PHP - Injection de commande
+OCCY9AcNm1tj                                                        o Fichier de sauvegarde
+LINUX                                                               o HTTP - Directory indexing
+HeadersMayBeUseful                                                  o HTTP - Headers
+H7tp_h4s_N0_s3Cr37S_F0r_y0U                                         o HTTP - POST
+ExecutionAfterRedirectIsBad                                         o HTTP - Redirection invalide
+a23e$dme96d3saez$$prap                                              o HTTP - Verb tampering
+karambar                                                            o Install files
+rFSP&G0p&5uAg1%                                                     o CRLF
+Gg9LRz-hWSxqqUKd77-_q-6G8                                           o File upload - Double extensions
+a7n4nizpgQgnPERy89uanf6T4                                           o File upload - Type MIME
+ml-SYMPA                                                            o HTTP - Cookies
+s3cureP@ssw0rd                                                      o Insecure Code Management
+S1gn4tuR3_v3r1f1c4t10N_1S_1MP0Rt4n7                                 o JSON Web Token (JWT) - Introduction
+kcb$!Bx@v4Gs9Ez                                                     o Directory traversal
+YPNchi2NmTwygr2dgCCF                                                o File upload - Null byte
+PleaseUseAStrongSecretNextTime                                      o JSON Web Token (JWT) - Secret faible
+x4Ss3rT1nglSn0ts4f3A7A1Lx                                           o PHP - assert()
+DAPt9D2mky0APAF                                                     o PHP - Filters
+NoTQYipcRKkgrqG                                                     o PHP - Register globals
+N3v3r_7rU5T_u5Er_1npU7                                              o File upload - ZIP
+Comma@nd_1nJec7ion_Fl@9_1337_Th3_G@m3!!!                            o Injection de commande - Contournement de filtre
+B3wareOfT3mplat3Inj3ction                                           o Java - Server-side Template Injection
+                                                                    x JSON Web Token (JWT) - Clé publique
+OpbNJ60xYpvAQU8                                                     o Local File Inclusion
+Th1sIsTh3Fl4g!                                                      o Local File Inclusion - Double encoding
+F34R_Th3_L0o5e_C0mP4r15On                                           o PHP - Loose Comparison
+pr3g_r3pl4c3_3_m0d1f13r_styl3                                       o PHP - preg_replace()
+DontForgetPHPL00seComp4r1s0n                                        o PHP - Type juggling
+R3m0t3_iS_r3aL1y_3v1l                                               o Remote File Inclusion
+t0_W34k!$                                                           o SQL injection - Authentification
+iMDaFlag1337!                                                       o SQL injection - Authentification - GBK
+c4K04dtIaJsuWdi                                                     o SQL injection - String
+X5L7_R0ckS                                                          o XSLT - Exécution de code
+SWRwehpkTI3Vu2F9DoTJJ0LBO                                           o LDAP injection - Authentification
+nosqli_no_secret_4_you                                              o NoSQL injection - Authentification
+110V3TrUnC4T10n                                                     o PHP - Path Truncation
+NoUserInputInPHPSerialization!                                      o PHP - Sérialisation
+aTlkJYLjcbLmue3                                                     o SQL injection - Numérique
+qs89QdAs9A                                                          o SQL Injection - Routed
+J41m3Qu4nD54Tr0nc                                                   o SQL Truncation
